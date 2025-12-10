@@ -105,5 +105,5 @@ user_ask = {'input': "劳热久嗽的症状选用哪个汤最好？"}
 # 运行提问 Run the question
 resp = retriever_chain.invoke(user_ask)
 
-
 print(resp.get('answer'))
+# results are as follows:劳热久嗽的症状选用紫菀汤最好。(For symptoms of chronic cough, the Purple Aconite Decoction is the best choice.)
