@@ -1,5 +1,5 @@
 # TangtouGejueKnowledgeBase
-The ancient Chinese medical expert Wang Ang's masterpiece "Tongtou Gejue" was used as the document data to build the RAG Chinese medicine prescription knowledge base. The technical stack includes LangChain, RecursiveCharacterTextSplitter, Chroma, DashScopeEmbeddings, ChatTongyi, and ChatPromptTemplate. It was developed using Python. 
+The ancient Chinese medical expert Wang Ang's masterpiece "Tangtou Gejue" was used as the document data to build the RAG Chinese medicine prescription knowledge base. The technical stack includes LangChain, RecursiveCharacterTextSplitter, Chroma, DashScopeEmbeddings, ChatTongyi, and ChatPromptTemplate. It was developed using Python. 
 The versions of each module are as follows: 
 Python 3.9.11
 LangChain 0.3.7
